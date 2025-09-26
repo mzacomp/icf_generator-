@@ -1,0 +1,282 @@
+{
+  "timestamp": "2025-09-26 11:47:31",
+  "retrieval_strategy": "Enhanced context-aware BM25 with semantic chunk classification",
+  "sections": {
+    "Purpose of the Study": {
+      "text": "**Purpose of the Study:**\n\nThis study aims to compare the effectiveness of treatment Arm C versus treatment Arm D in improving overall survival for patients with liver disease. We will also assess whether treatment Arm A is not inferior to or better than treatment Arm D in terms of overall survival. The study will involve approximately 100 patients per treatment arm, with follow-up evaluations lasting up to 32 weeks.",
+      "verification": {
+        "**Purpose of the Study:**\n\nThis study aims to compare the effectiveness of treatment Arm C versus treatment Arm D in improving overall survival for patients with liver disease.": [
+          "versus  confirmed  HCV  versus  others),  ECOG  (0  versus  1),  and  macro-vascular  invasion  (yes  versus  no).  The  effect  of  Arm  C  vs. \nArm  D  will  be  estimated  by  the  HR  together  with  its  corresponding  95%  CI  and  p-value. \nThe  key  secondary  analyses  are  to  compare  OS  for  Arm  A  vs.  Arm  D  (for  non-inferiority,  then  superiority)  in  the  FAS  (ITT) \nanalysis  set.",
+          "8.5.2   Analysis  of  the  primary  variable(s) \n8.5.2.1  Overall  survival \nThe  primary  analysis  is  to  compare  OS  for  Arm  C  vs.  Arm  D  (for  superiority)  in  the  FAS  (ITT)  analysis  set.  \nThe  primary  OS  endpoint  will  be  analyzed  using  a  stratified  log-rank  test  adjusting  for  etiology  of  liver  disease  (Confirmed  HBV",
+          "treat  (  TT) \nThe  assumed  OS  treatment  effect  is  an  average  HR  of  0.70  for  Arm  C  versus  Arm  D.   This  translates  to  an  increase  in  median  OS \nfrom  11.5  months  to  16.5  months  and  in  the  18-month  OS  rate  from  33.8%  to  46.8%  in  Arm  C  versus  Arm  D.  \nAt  the  time  of  the  second  Interim  Analysis  (IA2),  the  analysis  of  OS  will  be  performed  when  approximately  404  OS  events  in  Arm"
+        ],
+        "We will also assess whether treatment Arm A is not inferior to or better than treatment Arm D in terms of overall survival.": [
+          "Key  Secondary  objectives:  Outcome  measure: \nTo  assess  the  efficacy  of  Arm  A  vs.  Arm  D  (for  OS \nnon-inferiority)  \nTo  assess  the  efficacy  of  Arm  A  vs.  Arm  D  (for  OS \nsuperiority)",
+          "vs.  Arm  D  in  terms  of  OS  (for  the  primary  objective  of  superiority)  and  Arm  A  vs.  Arm  D  in \nterms  of  OS  (for  the  key  secondary  objectives  \u2013  first  for  non-inferiority  and  then  for \nsuperiority).  OS  will  be  analyzed  using  a  stratified  log-rank  test  (stratified  for  macro-vascular \ninvasion,  etiology  of  liver  disease,  and  ECOG  performance  status).  The  treatment  effect  will",
+          "2.  STUDY  OBJECTIVES \nAll  patients  will  be  evaluated  for  all  endpoints  unless  otherwise  indicated. \n2.1  Primary  objectives \nPrimary  objective:  Outcome  measure: \nTo  assess  the  efficacy  of  Arm  C  vs.  Arm  D  (for  OS \nsuperiority) \n2.2  Key  Secondary  objectives \nKey  Secondary  objectives:  Outcome  measure: \nTo  assess  the  efficacy  of  Arm  A  vs.  Arm  D  (for  OS \nnon-inferiority)  \nTo  assess  the  efficacy  of  Arm  A  vs.  Arm  D  (for  OS \nsuperiority)"
+        ],
+        "The study will involve approximately 100 patients per treatment arm, with follow-up evaluations lasting up to 32 weeks.": [
+          "Section  8.5  Methods  for  statistical  analyses \nAdded  PRO  as  a  secondary  endpoint \nChanged  hypothesis  one  to  a  difference  between  Arm  A  and  Arm  D  instead  of  Arm  B  and \nArm  D \nRemoved  hypothesis  3 \nSection  8.5.1  Multiple  testing  strategy \nIndicated  that  the  first  interim  analysis  will  be  performed  after  approximately  100  patients \nper treatment arm have had the \u201copportunity for 32 weeks\u201d of follow up, instead of 24\nweeks.",
+          "receive  study  drug(s)  are  included  in  the  ITT  population. \nTwo  interim  analyses  and  a  final  analysis  are  planned  as  described  below: \nInterim  Analysis  1  (IA1):  The  first  interim  analysis  will  be  performed  after  approximately \n100  patients  per  treatment  arm  have  had  the  opportunity  for  32  weeks  of  follow-up.  The \nobjective  is  to  evaluate  the  efficacy  of  Arm  A  and  Arm  C  in  terms  of  ORR  and  DoR.   The",
+          "8.5.1  Multiple  testing  strategy \nTwo  interim  analyses  and  a  final  analysis  are  planned  as  described  below: \nIA1:  The  first  interim  analysis  will  be  performed  after  approximately  100  patients  per  treatment  arm  have  had  the  opportunity  for \n32  weeks  of  follow-up.   The  objective  is  to  evaluate  the  efficacy  of  Arm  A  and  Arm  C  in  terms  of  ORR  and  DoR.   The  analysis  set"
+        ]
+      },
+      "judgement": "```json\n{\n  \"decision\": \"Ambiguous\",\n  \"justification\": \"The draft ICF text mentions comparing the effectiveness of treatment Arm C versus Arm D and assessing whether Arm A is not inferior to or better than Arm D in terms of overall survival. The retrieved evidence supports these objectives, indicating that the primary objective is to assess the efficacy of Arm C vs. Arm D for superiority and the key secondary objectives include assessing Arm A vs. Arm D for non-inferiority and then superiority. However, the draft ICF text does not mention the primary and secondary objectives explicitly, nor does it mention the interim analyses focusing on ORR and DoR for Arms A and C. Additionally, the draft text correctly states the follow-up duration of 32 weeks, but it does not clarify the overall study timeline or the interim analyses. Therefore, the draft is partially supported by the evidence but lacks complete clarity and detail.\"\n}\n```",
+      "citations": [
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 179 (Unknown) - Type: general",
+        "Page 33 (Unknown) - Type: general",
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 158 (Unknown) - Type: purpose_info",
+        "Page 20 (Unknown) - Type: purpose_info",
+        "Page 177 (Unknown) - Type: purpose_info",
+        "Page 33 (Unknown) - Type: purpose_info",
+        "Page 97 (Unknown) - Type: planned_action",
+        "Page 131 (Unknown) - Type: planned_action",
+        "Page 31 (Unknown) - Type: planned_action",
+        "Page 99 (Unknown) - Type: planned_action",
+        "Page 101 (Unknown) - Type: planned_action",
+        "Page 103 (Unknown) - Type: planned_action",
+        "Page 89 (Unknown) - Type: planned_action",
+        "Page 169 (Unknown) - Type: planned_action",
+        "Page 65 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 66 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 128 (Unknown) - Type: risk_info",
+        "Page 65 (Unknown) - Type: general",
+        "Page 64 (Unknown) - Type: benefit_info",
+        "Page 40 (Unknown) - Type: general",
+        "Page 238 (Unknown) - Type: general",
+        "Page 43 (Unknown) - Type: general",
+        "Page 82 (Unknown) - Type: general"
+      ],
+      "chunk_types_used": [
+        "risk_info",
+        "benefit_info",
+        "purpose_info",
+        "planned_action",
+        "general"
+      ]
+    },
+    "Study Procedures": {
+      "text": "**Study Procedures:**\n\nDuring the study, all participants will undergo the following procedures:\n\n- Full physical exam, including height, will be conducted.\n- Targeted physical exams based on symptoms will be performed.\n- Vital signs, including weight, will be measured.\n- ECG tests will be done as needed.\n- Concomitant medications will be recorded at all visits.\n\nThese procedures will be carried out for [number of patients] over [study duration].",
+      "verification": {
+        "**Study Procedures:**\n\nDuring the study, all participants will undergo the following procedures:\n\n- Full physical exam, including height, will be conducted.": [
+          "9.2  Monitoring  of  the  study \nDuring  the  study,  an  AstraZeneca  representative  will  have  regular  contacts  with  the  study  site,  including  visits  to: \n\u2022  Provide  information  and  support  to  the  Investigator(s) \n\u2022  Confirm  that  facilities  remain  acceptable \n\u2022  Confirm  that  the  investigational  team  is  adhering  to  the  protocol,  that  data  are  being  accurately  and  timely  recorded  in  the",
+          "the  underlying  disease. \n5.2.2  Physical  examination \nPhysical  examinations  will  be  performed  according  to  the  schedule  of  assessments  (see  Table  2,  Table  3,  and  Table  4).   Full \nphysical  examinations  will  include  assessments  of  the  head,  eyes,  ears,  nose,  and  throat  and  the  respiratory,  cardiovascular,  GI, \nurogenital,  musculoskeletal,  neurological,  dermatological,  hematologic/lymphatic,  and  endocrine  systems.   Height  will  be  measured",
+          "Appendix  E  Actions Required in Cases of Increases in Liver Biochemistry and Evaluation of Hy\u2019s Law \nIntroduction \nThis Appendix describes the process to be followed to identify and appropriately report cases of Hy\u2019s law (HL). It is not intended \nto  be  a  comprehensive  guide  to  the  management  of  elevated  liver  biochemistries.   \nDuring  the  course  of  the  study,  the  Investigator  will  remain  vigilant  for  increases  in  liver  biochemistry.   The  Investigator  is"
+        ],
+        "- Targeted physical exams based on symptoms will be performed.": [
+          "at  screening  only.   Targeted  physical  examinations  are  to  be  utilized  by  the  Investigator  on  the  basis  of  clinical  observations  and \nsymptomatology.   Situations  in  which  physical  examination  results  should  be  reported  as  AEs  are  described  in  Section  6.3.6.  \n5.2.3  Electrocardiograms \nResting  12-lead  ECGs  will  be  recorded  at  screening  and  as  clinically  indicated  throughout  the  study  (see  Table  2  and  Table  3).",
+          "Study  procedures \nFull  physical  exam  (including  height)  X        5.2.2 \nTargeted  physical  exam  (based  on  symptoms)   X  X  X  X  X  X  5.2.2 \nVital  signs  (including  weight)c  X  X  X  X  X  X  X  5.2.4 \nECGd  X  As  clinically  indicated  5.2.3 \nConcomitant  medications  <----------------------------------------  All  visits  -------------------------------------------->  7.7 \nDemography,  incl  baseline  characteristics,  tobacco  and  X        4.1",
+          "Study  procedures \nFull  physical  (including  height)  X             5.2.2 \nTargeted  physical  exam  (based  on  symptoms)   X  X  X  X  X  X  X  X  X  X  X  5.2.2 \nVital  signs  (including  weight)d  X  X  X  X  X  X  X  X  X  X  X  X  5.2.4 \nECGe  X  As  clinically  indicated  5.2.3 \nConcomitant  medications  <-----------------------------------------All  visits--------------------------------------------------------->  7.7 \nDemography,  incl  baseline  characteristics,  X             4.1"
+        ],
+        "- Vital signs, including weight, will be measured.": [
+          "5.2.4  Vital  signs \nVital  signs  (blood  pressure  [BP  ,  pulse,  temperature,  and  respiration  rate)  will  be  evaluated  according  to  the  schedule  of \nassessments  (see  Table  2,  Table  3,  and  Table  4).   Body  weight  will  also  be  recorded  at  each  visit  along  with  vital  signs. \nVital  signs  for  patients  in  the  sorafenib      arm  will  be  collected  per  visit  and  as  clinically  indicated.  \nFirst  infusion  of  immunotherapy",
+          "4.2  Treatment  period \nAll  procedures  to  be  conducted  during  the  treatment  period  will  be  performed  according  to  the  assessment  schedule  (see  Table  2 \nand  Table  3).  \nWhenever  ECG,  vital  signs,  and  blood  draws  are  scheduled  for  the  same  nominal  time,  the  assessments  should  occur  in  the \nfollowing  order:  ECG,  then  vital  signs,  and  then  blood  draws.   The  timing  of  the  first  2  assessments  should  be  such  that  it  allows  the",
+          "5.2.2 Physical  examination  ...........................................................................................  110\n5.2.3 Electrocardiograms  ..............................................................................................  110\n5.2.4 Vital  signs  ............................................................................................................  111"
+        ],
+        "- ECG tests will be done as needed.": [
+          "after  the  first  patient  is  dosed  (whichever  comes  first),  and  will  occur  approximately  every  6 \nmonths  thereafter;  the  frequency  of  IDMC  review  may  be  adjusted  by  the  IDMC  as  needed. \nThe  IDMC  will  be  composed  of  individuals  external  to  AstraZeneca.  An  IDMC  charter  will  be \ndeveloped which will specify the Committee\u2019s responsibilities, authorities, and procedures",
+          "approximately  30  patients  per  arm  are  randomized  or  6  months  after  the  first  patient  is  dosed  (whichever  occurs  first)  and  will  occur \napproximately  every  6  months  thereafter;  the  frequency  of  IDMC  review  may  be  adjusted  by  the  IDMC  as  needed.  The  IDMC  will \nbe  composed  of  individuals  external  to  AstraZeneca.  An  IDMC  charter will be developed which will specify the Committee\u2019s",
+          "over  a  brief  period  (eg,  30  minutes)  to  confirm  prolongation. \nSituations  in  which  ECG  results  should  be  reported  as  AEs  are  described  in  Section  6.3.7. \n110  (251)"
+        ],
+        "- Concomitant medications will be recorded at all visits.": [
+          "Table  11  Supportive  medications \nSupportive  medication/class  of  drug:  Usage: \nConcomitant  medications  or  treatments  To  be  administered  as  prescribed  by  the  Investigator \n(eg,  acetaminophen  or  diphenhydramine) \ndeemed  necessary  to  provide  adequate \nprophylactic  or  supportive  care,  except  for \nthose medications identified as \u201cprohibited,\u201d\nas  listed  above  \nBest  supportive  care  (including  antibiotics,  Should  be  used,  when  necessary,  for  all  patients",
+          "Certificates  of  delivery,  destruction,  and  return  should  be  signed.  \n7.7  Concomitant  medications  and  other  treatments  \nThe  Investigator  must  be  informed  as  soon  as  possible  about  any  medication  taken  from  the  time  of  screening  until  3  months  after \nthe  last  dose  of  study  drug(s).   Any  concomitant  medication(s),  including  herbal  preparations,  taken  during  this  time  will  be \nrecorded  in  the  eCRF.",
+          "7.4 Storage  .................................................................................................................  153\n7.5 Compliance  ..........................................................................................................  153\n7.6 Accountability  ......................................................................................................  154\n7.7 Concomitant  medications  and  other  treatments  ...................................................  154"
+        ],
+        "These procedures will be carried out for [number of patients] over [study duration].": [
+          "Preparations  are  to  be  carried  out  in  accordance  with  the  study-specific  drug  handling  instructions. \n7.1.2  Tremelimumab \nTremelimumab  will  be  supplied  by  AstraZeneca  as  a      vial  solution  for  infusion  after  dilution.  The  solution \ncontains     \nThe  nominal  fill  volume  is      for  the      vial  and \nfor  the      vial.",
+          "the  schedule  of  assessments  and  as  clinically  indicated  (see  Table  2  through  Table  8).   Additional  safety  monitoring  for  patients \nreceiving  sorafenib  should  be  carried  out  as  per  the  label.   If  a  patient  has  completed  any  safety  laboratory  tests  within  3  days  before \nDay  1,  they  do  not  need  to  be  repeated  at  Day  1.",
+          "these  guidelines  are  also  presented  in  Appendix  B. \nSection  5.2.1  \u2013  Laboratory  safety  assessments  and  5.2.3  -  Electrocardiograms:  \nProvision  that  additional  safety  monitoring  for  patient  receiving  sorafenib  should  be  carried \nout  as  per  the  label. \nSection  5.4.1  \u2013  Collection  of  PK  samples:   The  following  collection  window  was  added:  \nPre-dose  (1  hour)  and  post-dose  (10  minutes  post-infusion)."
+        ]
+      },
+      "judgement": "```json\n{\n  \"decision\": \"Ambiguous\",\n  \"justification\": \"The draft ICF text accurately describes the study procedures such as full physical exams, targeted physical exams, vital signs measurement, ECG tests, and recording of concomitant medications, which are supported by the retrieved evidence. However, the draft text mentions '[number of patients]' and '[study duration]' without specifying these details, which are crucial for a complete and accurate informed consent form. The evidence does not provide these specific numbers either, leading to ambiguity in the draft's completeness.\"\n}\n```",
+      "citations": [
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 179 (Unknown) - Type: general",
+        "Page 33 (Unknown) - Type: general",
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 158 (Unknown) - Type: purpose_info",
+        "Page 20 (Unknown) - Type: purpose_info",
+        "Page 177 (Unknown) - Type: purpose_info",
+        "Page 33 (Unknown) - Type: purpose_info",
+        "Page 97 (Unknown) - Type: planned_action",
+        "Page 131 (Unknown) - Type: planned_action",
+        "Page 31 (Unknown) - Type: planned_action",
+        "Page 99 (Unknown) - Type: planned_action",
+        "Page 101 (Unknown) - Type: planned_action",
+        "Page 103 (Unknown) - Type: planned_action",
+        "Page 89 (Unknown) - Type: planned_action",
+        "Page 169 (Unknown) - Type: planned_action",
+        "Page 65 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 66 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 128 (Unknown) - Type: risk_info",
+        "Page 65 (Unknown) - Type: general",
+        "Page 64 (Unknown) - Type: benefit_info",
+        "Page 40 (Unknown) - Type: general",
+        "Page 238 (Unknown) - Type: general",
+        "Page 43 (Unknown) - Type: general",
+        "Page 82 (Unknown) - Type: general"
+      ],
+      "chunk_types_used": [
+        "risk_info",
+        "benefit_info",
+        "purpose_info",
+        "planned_action",
+        "general"
+      ]
+    },
+    "Risks": {
+      "text": "Risks:\nTaking part in this study involves risks. The treatment may stimulate the immune system, which could lead to side effects in other parts of the body. Most side effects are believed to be caused by the immune system affecting specific tissues. These side effects could be related to inflammation or immune responses and may need closer monitoring or special treatments like immunosuppressants or hormone therapy. These immune-related effects can affect various organs, with the most common issues being gastrointestinal problems like colitis and diarrhea.",
+      "verification": {
+        "Risks:\nTaking part in this study involves risks.": [
+          "than  those  under  investigation  in  this  study  is  on  study  drug(s) \nmAbs  against  CTLA-4,  PD-1,  or  PD-L1  other  Should  not  be  given  concomitantly  while  the  patient \nthan  those  under  investigation  in  this  study  is  on  study  drug(s) \n154  (251)",
+          "evaluated  as  a  part  of  the  expansion  of  the  ongoing  Phase  I/II  Study  D4190C00022.  \nA  detailed  summary  of  durvalumab  plus  tremelimumab  combination  therapy  AE  data  can  be \nfound  in  the  current  version  of  the  durvalumab  IB. \n1.3.3  Overall  benefit  risk \nDurvalumab  and  tremelimumab  have  shown  encouraging  anti-tumor  activity  as  single  agents \nin  advanced  HCC  population.   The  summary  of  this  efficacy  data  is  presented  in  Section  1.1.6",
+          "reticuloendothelial  clearance.   It  is,  therefore,  not  expected  that  durvalumab  will  induce  or  inhibit  the  major  drug  metabolizing \ncytochrome  P450  pathways.   As  a  result,  there  are  no  expected  PK  drug-drug  interactions.   The  mechanism  of  action  of  durvalumab \ninvolves  binding  to  PD-L1;  therefore,  significant  pharmacodynamic  drug  interactions  with  the  commonly  administered  concomitant"
+        ],
+        "The treatment may stimulate the immune system, which could lead to side effects in other parts of the body.": [
+          "against  TC.   By  stimulating  the  immune  system,  however,  there  is  the  potential  for  adverse \neffects  on  other  tissues. \nMost  adverse  drug  reactions  seen  with  the  immune  checkpoint  inhibitor  class  of  agents  are \nthought  to  be  due  to  the  effects  of  inflammatory  cells  on  specific  tissues.   These  risks  are \ngenerally  events  with  a  potential  inflammatory  or  immune-mediated  mechanism  and  may",
+          "in  animal  models,  including  killing  of  established  murine  solid  tumors  and  induction  of \nprotective  anti-tumor  immunity.   Therefore,  it  is  expected  that  treatment  with  an  anti-CTLA-4 \nantibody  will  lead  to  increased  activation  of  the  human  immune  system,  increasing  anti-tumor \nactivity  in  patients  with  solid  tumors. \nNonclinical  data  has  now  been  added  to  with  a  wealth  of  clinical  data  showing  that  blockade",
+          "represents  a  significant  unmet  medical  need.   Hence,  novel  therapies  are  needed  for  patients \nwith  HCC  not  eligible  for  locoregional  therapy. \n1.1.1  Immunotherapies \nIt  is  increasingly  understood  that  cancers  are  recognized  by  the  immune  system,  and,  under \nsome  circumstances,  the  immune  system  may  control  or  even  eliminate  tumors \n(Dunn  et  al  2004)."
+        ],
+        "Most side effects are believed to be caused by the immune system affecting specific tissues.": [
+          "against  TC.   By  stimulating  the  immune  system,  however,  there  is  the  potential  for  adverse \neffects  on  other  tissues. \nMost  adverse  drug  reactions  seen  with  the  immune  checkpoint  inhibitor  class  of  agents  are \nthought  to  be  due  to  the  effects  of  inflammatory  cells  on  specific  tissues.   These  risks  are \ngenerally  events  with  a  potential  inflammatory  or  immune-mediated  mechanism  and  may",
+          "represents  a  significant  unmet  medical  need.   Hence,  novel  therapies  are  needed  for  patients \nwith  HCC  not  eligible  for  locoregional  therapy. \n1.1.1  Immunotherapies \nIt  is  increasingly  understood  that  cancers  are  recognized  by  the  immune  system,  and,  under \nsome  circumstances,  the  immune  system  may  control  or  even  eliminate  tumors \n(Dunn  et  al  2004).",
+          "systemic  inflammatory  response.  HPB  (Oxford)  2012;14(8):500-5. \nIwai  et  al  2002 \nIwai  Y,  Ishida  M,  Tanaka  Y,  Okazaki  T,  Honjo  T,  Minato  N.  Involvement  of  PD-L1  on  tumor  cells  in  the  escape  from  host  immune \nsystem  and  tumor  immunotherapy  by  PD-L1  blockade.  Proc  Natl  Acad  Sci  USA  2002;99:12293-7. \n200  (251)"
+        ],
+        "These side effects could be related to inflammation or immune responses and may need closer monitoring or special treatments like immunosuppressants or hormone therapy.": [
+          "generally  events  with  a  potential  inflammatory  or  immune-mediated  mechanism  and  may \nrequire  more  frequent  monitoring  and/or  unique  interventions  such  as  immunosuppressants \nand/or  endocrine  therapy.   These  immune  mediated  effects  can  occur  in  nearly  any  organ \nsystem,  and  are  most  commonly  seen  as  gastrointestinal  (GI)  AEs  such  as  colitis  and  diarrhea,",
+          "in  association  with  the  use  of  this  study  drug(s) \nAESIs  for  durvalumab  and  tremelimumab  include,  but  are  not  limited  to,  events  with  a  potential  inflammatory  or  immune-mediated \nmechanism  and  which  may  require  more  frequent  monitoring  and/or  interventions  such  as  steroids,  immunosuppressants,  and/or \nhormone  replacement  therapy.   These  AESIs  are  being  closely  monitored  in  clinical  studies  with  durvalumab  monotherapy  and",
+          "against  TC.   By  stimulating  the  immune  system,  however,  there  is  the  potential  for  adverse \neffects  on  other  tissues. \nMost  adverse  drug  reactions  seen  with  the  immune  checkpoint  inhibitor  class  of  agents  are \nthought  to  be  due  to  the  effects  of  inflammatory  cells  on  specific  tissues.   These  risks  are \ngenerally  events  with  a  potential  inflammatory  or  immune-mediated  mechanism  and  may"
+        ],
+        "These immune-related effects can affect various organs, with the most common issues being gastrointestinal problems like colitis and diarrhea.": [
+          "generally  events  with  a  potential  inflammatory  or  immune-mediated  mechanism  and  may \nrequire  more  frequent  monitoring  and/or  unique  interventions  such  as  immunosuppressants \nand/or  endocrine  therapy.   These  immune  mediated  effects  can  occur  in  nearly  any  organ \nsystem,  and  are  most  commonly  seen  as  gastrointestinal  (GI)  AEs  such  as  colitis  and  diarrhea,",
+          "1.  INTRODUCTION \n1.1  Background  and  rationale  for  conducting  this  study \nHepatocellular  carcinoma  (HCC)  is  the  third  most  common  cause  of  cancer  death  worldwide \nand  the  second  most  common  cause  of  cancer  death  in  males  (Altekruse  et  al  2009,  Parkin \net  al  2005,  Torre  et  al  2015).   The  incidence  and  prognosis  of  HCC  vary  geographically",
+          "against  TC.   By  stimulating  the  immune  system,  however,  there  is  the  potential  for  adverse \neffects  on  other  tissues. \nMost  adverse  drug  reactions  seen  with  the  immune  checkpoint  inhibitor  class  of  agents  are \nthought  to  be  due  to  the  effects  of  inflammatory  cells  on  specific  tissues.   These  risks  are \ngenerally  events  with  a  potential  inflammatory  or  immune-mediated  mechanism  and  may"
+        ]
+      },
+      "judgement": "```json\n{\n  \"decision\": \"Credible\",\n  \"justification\": \"The draft ICF text accurately reflects the supporting evidence from the trial protocol. Both the draft and the evidence describe the potential for immune-related side effects due to the stimulation of the immune system by the treatment. They mention that these side effects are generally inflammatory or immune-mediated, may require special treatments like immunosuppressants or hormone therapy, and can affect various organs, with gastrointestinal issues such as colitis and diarrhea being the most common. The draft does not introduce any unsupported claims or omit critical information present in the evidence.\"\n}\n```",
+      "citations": [
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 179 (Unknown) - Type: general",
+        "Page 33 (Unknown) - Type: general",
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 158 (Unknown) - Type: purpose_info",
+        "Page 20 (Unknown) - Type: purpose_info",
+        "Page 177 (Unknown) - Type: purpose_info",
+        "Page 33 (Unknown) - Type: purpose_info",
+        "Page 97 (Unknown) - Type: planned_action",
+        "Page 131 (Unknown) - Type: planned_action",
+        "Page 31 (Unknown) - Type: planned_action",
+        "Page 99 (Unknown) - Type: planned_action",
+        "Page 101 (Unknown) - Type: planned_action",
+        "Page 103 (Unknown) - Type: planned_action",
+        "Page 89 (Unknown) - Type: planned_action",
+        "Page 169 (Unknown) - Type: planned_action",
+        "Page 65 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 66 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 128 (Unknown) - Type: risk_info",
+        "Page 65 (Unknown) - Type: general",
+        "Page 64 (Unknown) - Type: benefit_info",
+        "Page 40 (Unknown) - Type: general",
+        "Page 238 (Unknown) - Type: general",
+        "Page 43 (Unknown) - Type: general",
+        "Page 82 (Unknown) - Type: general"
+      ],
+      "chunk_types_used": [
+        "risk_info",
+        "benefit_info",
+        "purpose_info",
+        "planned_action",
+        "general"
+      ]
+    },
+    "Benefits": {
+      "text": "Benefits:\nYou may benefit from participating in this study by receiving a combination therapy of durvalumab and tremelimumab. The potential benefits of adding tremelimumab to durvalumab include improved outcomes for patients with certain types of tumors, as supported by data presented in the study protocol. This combination regimen has shown promise in patients with liver cancer (HCC). By participating, you may contribute to the advancement of medical knowledge and potentially help improve treatment options for patients with similar conditions.",
+      "verification": {
+        "Benefits:\nYou may benefit from participating in this study by receiving a combination therapy of durvalumab and tremelimumab.": [
+          "a  This  is  also  considered  a  hormonal  method. \nAll  patients  \n\u2212  Patients  should  not  donate  blood  or  blood  components  while  participating  in \nthis  study  and  through  180  days  after  receipt  of  the  final  dose  of  the \ndurvalumab  plus  tremelimumab  combination  therapy  or  90  days  after  receipt  of \nthe  final  dose  of  durvalumab  monotherapy  or  until  alternate  anticancer  therapy \nis  started.",
+          "of  durvalumab  and  tremelimumab  showed  a  tolerable  safety  profile  in  this  unresectable  HCC \npopulation,  while  demonstrating  encouraging  early  responses.  Enrollment  to  the  Phase  II \nexpansion  portion  of  this  study  is  ongoing. \nRationale  for      of  combination  therapy  followed  by  durvalumab  monotherapy  \nLong-term  follow-up  on  melanoma  patients  treated  with  ipilimumab,  an  anti-CTLA-4",
+          "Confirmation  of  Radiological  Progression  (Appendix  B).   \nAdditionally, patients in all arms with confirmed PD who, in the Investigator\u2019s opinion,\ncontinue  to  receive  benefit  from  their  assigned  treatment  and  meet  the  criteria  for  treatment  in \nthe  setting  of  PD  may  continue  to  receive  their  assigned  treatment \nPatients  in  the  durvalumab  plus  tremelimumab  combination  therapy  arms  who  complete  the"
+        ],
+        "The potential benefits of adding tremelimumab to durvalumab include improved outcomes for patients with certain types of tumors, as supported by data presented in the study protocol.": [
+          "Section  1.1.6.   For  other  tumor  types,  see  the  most  current  durvalumab  IB.  \n1.3.1.2  Durvalumab  plus  tremelimumab  combination  therapy \nThe  potential  benefits  of  adding  tremelimumab  to  durvalumab  is  presented  in  Section  1.1.6.  \nInformation  on  the  data  supporting  the  selected  combination  regimen  of  durvalumab  plus \ntremelimumab  in  patients  with  HCC  are  presented  in  Section  1.2.3.   For  other  tumor  types,  see",
+          "blood  sample)  to  occur  at  the  timepoints  indicated  in  Table  4. \nAll  patients  will  be  followed  for  survival  until  the  end  of  the  study.   Following  the  final  primary  analysis,  which  will  include  all \nstudy  endpoints,  the  study  database  may  remain  open  for  collection  of  long  term  follow-up  as  presented  in  Table  22  in  section  9.3.   \nPost  final  data  cutoff",
+          "The  safety  of  the  weight-based  equivalent  regimen  of  durvalumab      plus \ntremelimumab      in  unresectable  HCC  population  has  been  demonstrated  in \nStudy  D4190C00022,  and  the  safety  summary  is  presented  in  Section  1.2.3.  Safety  data  of \ndurvalumab      plus  tremelimumab      combination  therapy  is  being \nevaluated  as  a  part  of  the  expansion  of  the  ongoing  Phase  I/II  Study  D4190C00022."
+        ],
+        "This combination regimen has shown promise in patients with liver cancer (HCC).": [
+          "1.2.3.1 Dose  rationale  for  combination  therapy  regimen  of  durvalumab     \n....................................................  60\n1.2.3.2 Dose  rationale  for  combination  regimen  of  durvalumab    \nplus  tremelimumab     .....................................................................  62\n1.2.3.3 Rationale  for  utilizing  a  fixed-dose  regimen  for  durvalumab  and",
+          "have  also  been  noted  with  another  PD-1  receptor  antagonist,  which  has  shown  an  ORR  of \n18.6%  and  median  OS  of  13.2  months  in  patients  with  advanced  HCC  patients  (Melero  et  al \n2017). \nThe  data  from  the  above  mentioned  studies,  although  exploratory,  are  suggestive  that  both \ndurvalumab  and  tremelimumab  monotherapies  have  anti-tumor  activity  against  HCC.",
+          "Section  1.1.6.   For  other  tumor  types,  see  the  most  current  durvalumab  IB.  \n1.3.1.2  Durvalumab  plus  tremelimumab  combination  therapy \nThe  potential  benefits  of  adding  tremelimumab  to  durvalumab  is  presented  in  Section  1.1.6.  \nInformation  on  the  data  supporting  the  selected  combination  regimen  of  durvalumab  plus \ntremelimumab  in  patients  with  HCC  are  presented  in  Section  1.2.3.   For  other  tumor  types,  see"
+        ],
+        "By participating, you may contribute to the advancement of medical knowledge and potentially help improve treatment options for patients with similar conditions.": [
+          "2009).   Therefore,  therapeutic  agents  that  are  capable  of  blocking  PD-L1  and  CTLA-4  may \npotentially  improve  clinical  outcomes  by  reversing  the  immunosuppressive  nature  of  the  HCC \ntumors  and  stimulating  host  immunity  against  HCC. \nCurrently,  there  are  early  and  encouraging  clinical  data  that  suggest  that  anti-CTLA-4  and \nanti-PD-L1/PD-1  agents  may  be  active  in  HCC  and  may  provide  better  response  rates  and \nsurvival.",
+          "with  potentially  curative  options  such  as  surgical  resection,  liver  transplantation,  and/or \nradiofrequency  ablation  (RFA).   Only  about  30%  of  the  HCC  patients  are  eligible  for  curative \ntreatments  (Llovet  2005),  while  the  rest  present  with  intermediate/advanced  stage  disease, \nwhich  is  usually  treated  with  palliative  intent.   Advanced  unresectable  HCC  for  which",
+          "combination  with  tremelimumab      only  following  implementation  of  protocol \namendment  5.  \nPatients  with  unresectable  HCC  have  very  limited  systemic  therapeutic  options  and  a  poor  life \nexpectancy  and  health-related  quality  of  life  (HRQoL)  based  on  the  currently  available \ntreatments.   HCC,  therefore,  represents  a  significant  unmet  medical  need  and  underlines  the"
+        ]
+      },
+      "judgement": "```json\n{\n  \"decision\": \"Ambiguous\",\n  \"justification\": \"The draft ICF text claims potential benefits of the combination therapy of durvalumab and tremelimumab, specifically mentioning improved outcomes for certain tumor types and promise in liver cancer (HCC). The retrieved evidence supports the potential benefit in HCC, noting a higher response rate compared to monotherapies and an ORR of 18% in an interim analysis. However, the draft does not specify the ORR or the number of patients, which are important details. Additionally, while the evidence mentions a manageable safety profile, the draft does not address safety or risks, which are crucial for informed consent. Therefore, the draft is partially supported but lacks complete information on safety and specific data points.\"\n}\n```",
+      "citations": [
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 179 (Unknown) - Type: general",
+        "Page 33 (Unknown) - Type: general",
+        "Page 18 (Unknown) - Type: purpose_info",
+        "Page 158 (Unknown) - Type: purpose_info",
+        "Page 20 (Unknown) - Type: purpose_info",
+        "Page 177 (Unknown) - Type: purpose_info",
+        "Page 33 (Unknown) - Type: purpose_info",
+        "Page 97 (Unknown) - Type: planned_action",
+        "Page 131 (Unknown) - Type: planned_action",
+        "Page 31 (Unknown) - Type: planned_action",
+        "Page 99 (Unknown) - Type: planned_action",
+        "Page 101 (Unknown) - Type: planned_action",
+        "Page 103 (Unknown) - Type: planned_action",
+        "Page 89 (Unknown) - Type: planned_action",
+        "Page 169 (Unknown) - Type: planned_action",
+        "Page 65 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 66 (Unknown) - Type: risk_info",
+        "Page 38 (Unknown) - Type: risk_info",
+        "Page 7 (Unknown) - Type: risk_info",
+        "Page 128 (Unknown) - Type: risk_info",
+        "Page 65 (Unknown) - Type: general",
+        "Page 64 (Unknown) - Type: benefit_info",
+        "Page 40 (Unknown) - Type: general",
+        "Page 238 (Unknown) - Type: general",
+        "Page 43 (Unknown) - Type: general",
+        "Page 82 (Unknown) - Type: general"
+      ],
+      "chunk_types_used": [
+        "risk_info",
+        "benefit_info",
+        "purpose_info",
+        "planned_action",
+        "general"
+      ]
+    }
+  },
+  "metadata": {
+    "total_sections": 4,
+    "sections_with_citations": 4,
+    "agentic_features": [
+      "Context-aware chunk classification",
+      "Section-specific retrieval filtering",
+      "Planned vs completed action distinction",
+      "Domain-aware metadata enrichment"
+    ]
+  }
+}
